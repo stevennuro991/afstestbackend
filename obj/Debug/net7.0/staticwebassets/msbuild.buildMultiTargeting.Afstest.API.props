@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Afstest.API.props" />
+</Project>

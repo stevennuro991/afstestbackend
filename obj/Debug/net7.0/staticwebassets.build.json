@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CgVrnbLPmFgobh2rJ1TkDYstoqYAYeUOsPgYN08oPXs=",
+  "Source": "Afstest.API",
+  "BasePath": "_content/Afstest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
